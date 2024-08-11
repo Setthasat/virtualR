@@ -1,4 +1,4 @@
-import FeatureSection from "./components/FeatureSEction";
+import FeatureSection from "./components/FeatureSection";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
